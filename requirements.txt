@@ -1,1 +1,6 @@
 pytest
+requests
+fastapi
+beautifulsoup4
+uvicorn
+httpx
